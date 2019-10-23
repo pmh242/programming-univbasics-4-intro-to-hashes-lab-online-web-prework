@@ -75,3 +75,30 @@ describe "updating data in a hash" do
   end
 
 end
+
+def new_hash
+  new_hash = {}
+end
+
+def my_hash
+  my_hash = {:hi => "hello"}
+end
+
+def pioneer
+  pioneer_hash = {:name => "Grace Hopper"}
+end
+
+def id_generator
+  id_generator_hash = {:id => 1}
+end
+
+def my_hash_creator(hi, hello)
+  key = {:hi => "hello"}
+end
+
+
+
+
+
+
+
