@@ -101,8 +101,7 @@ def read_from_hash(hash, key)
 end
 
 def update_counting_hash(hash, key)
-  variable = {:key => 1}
-  if variable[key]
+  
 end
 
 
