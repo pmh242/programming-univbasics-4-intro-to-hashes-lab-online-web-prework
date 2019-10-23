@@ -93,7 +93,7 @@ def id_generator
 end
 
 def my_hash_creator(hi, hello)
-  key = {hi => hello }
+  variable = {hi => hello }
 end
 
 
