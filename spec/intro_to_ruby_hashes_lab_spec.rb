@@ -97,7 +97,7 @@ def my_hash_creator(hi, hello)
 end
 
 def read_from_hash(hash, key)
-  key[hash]
+  hash[key]
 end
 
 
