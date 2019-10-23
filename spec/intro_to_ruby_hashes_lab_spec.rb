@@ -81,15 +81,15 @@ def new_hash
 end
 
 def my_hash
-  my_hash = {:hi "hello"}
+  my_hash = {:hi => "hello"}
 end
 
 def pioneer
-  pioneer_hash = {:name "Grace Hopper"}
+  pioneer_hash = {:name => "Grace Hopper"}
 end
 
 def id_generator
-  id_generator_hash = {:id 1}
+  id_generator_hash = {:id => 1}
 end
 
 def my_hash_creator(hi, hello)
