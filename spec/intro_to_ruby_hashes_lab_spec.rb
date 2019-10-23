@@ -102,7 +102,7 @@ end
 
 def update_counting_hash(hash, key)
   variable = {:key => 1}
-  variable[:key] = 1
+  variable[:key] = 3
 end
 
 
